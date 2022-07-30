@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @annamalai-palanikumar
-- 👀 I’m interested in eCommerce Platforms.
+- 🛒 I’m having experiance in eCommerce Platform developement from Infosys Equinox.
+- 🎮 Now enhancing iGaming Platform for ComeOn!.
